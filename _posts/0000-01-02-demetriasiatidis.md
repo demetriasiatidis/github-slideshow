@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Branch, file, commit and pull
 Use the left arrow to go back!
